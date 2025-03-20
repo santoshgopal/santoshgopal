@@ -1,5 +1,5 @@
 # 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=santoshgopal&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
-👨🏻‍💻 I am a full stack developer. <br>🤔 I'm a creative problem solving enthusiast. <br>🤠 Full-Stack Developer <br>🧑‍💻 Teck Stack: MongoDb, ExpressJs, Angular, NodeJs, MySql, redis, Java(Springboot).<br><br>Front-end development using JavaScript, TypeScript, Angular, Html, Scss, Css,Bootstrap, Jquery<br>Backend development using NodeJs, NestJs, ExpressJs, Java(Springboot)<br>Made handshake with Databases MongoDb,Redis, MySql<br>Robust full-stack system design implementation<br>Solving Data structure and algorithm questions in java<br><br>LOVE : Visual Studio Code, Eclipse, Git, Agile(Kanban), Jira, RabbitMQ, Maven, Docker, pm2, JPA, Hibernate, WebSocket
+👨🏻‍💻 I am a Sr Full Stack Developer. <br>🤔 I'm a creative problem solving enthusiast. <br>🤠 Full-Stack Developer <br>🧑‍💻 Teck Stack: MongoDb, ExpressJs, Angular, NodeJs, MySql, redis, Java(Springboot).<br><br>Front-end development using JavaScript, TypeScript, Angular, ReactJs, NextJs. <br>Backend development using NodeJs, NestJs, ExpressJs, Java(Springboot), Python Django, FastAPI. <br>Made handshake with Databases MySQL, MongoDb, Redis, MySql. <br>Robust full-stack system design implementation<br>Solving Data structure and algorithm questions in java<br><br>LOVE : Visual Studio Code, Eclipse, Git, Agile(Kanban), Jira, RabbitMQ, Maven, Docker, pm2, JPA, Hibernate, WebSocket
 
 
 ## 🌐 Socials:
@@ -22,9 +22,6 @@
 
 [![View my LinkedIn post](https://img.shields.io/badge/LinkedIn-Post-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:share:7308565505106161664)
 
-**Or view it directly in my [GitHub Gist](https://gist.github.com/your-username/abc123def456).**
+**Or view it directly in my [GitHub Gist](https://gist.github.com/santoshgopal/e45cb05b1520dcb6922d3fc723afc6e4).**
 
 <script src="https://gist.github.com/santoshgopal/e45cb05b1520dcb6922d3fc723afc6e4"></script>
-
----
-
