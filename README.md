@@ -17,8 +17,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+## 📢 My Latest LinkedIn Post
+
+[![View my LinkedIn post](https://img.shields.io/badge/LinkedIn-Post-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:share:7308565505106161664)
+
+**Or view it directly in my [GitHub Gist](https://gist.github.com/your-username/abc123def456).**
+
+<script src="https://gist.github.com/santoshgopal/e45cb05b1520dcb6922d3fc723afc6e4"></script>
 
 ---
 
